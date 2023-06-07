@@ -1,0 +1,10 @@
+{
+  "simulation": "com.performance.tests.TC3_POST_CREATE_USER",
+  "simulationId": "tc3-post-create-user",
+  "start": 1685535392474,
+  "description": "",
+  "scenarios": ["STUDENT DATABASE-CREATION OF STUDENTS"],
+  "assertions": [
+
+  ]
+}

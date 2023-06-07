@@ -1,0 +1,10 @@
+{
+  "simulation": "com.performance.tests.TC13_LOOPING",
+  "simulationId": "tc13-looping",
+  "start": 1685712120100,
+  "description": "Looping",
+  "scenarios": ["LOOPING EXAMPLE"],
+  "assertions": [
+
+  ]
+}

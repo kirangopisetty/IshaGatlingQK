@@ -1,0 +1,10 @@
+{
+  "simulation": "com.performance.tests.TC18_GUI_BOOKAPPT",
+  "simulationId": "tc18-gui-bookappt",
+  "start": 1686053424314,
+  "description": "",
+  "scenarios": ["LOGIN --> BOOK AN APPOINTMENT --> LOGOUT"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "com.performance.tests.TC16_FE_REGISTER_LOGOUT",
+  "simulationId": "tc16-fe-register-logout",
+  "start": 1685968336710,
+  "description": "",
+  "scenarios": ["USER REGISTRATION & LOGOUT"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "com.performance.tests.TC6_ALL_TEST_CASES",
+  "simulationId": "tc6-all-test-cases",
+  "start": 1685538440311,
+  "description": "",
+  "scenarios": ["TEST ALL HTTP METHODS OF STUDENT DETAILS"],
+  "assertions": [
+
+  ]
+}
