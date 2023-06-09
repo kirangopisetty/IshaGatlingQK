@@ -14,6 +14,7 @@ class TC15_BASIC_AUTH extends Simulation {
   // scenario configuration
 
   val scn = scenario("BASIC AUTHORIZATION API")
+
     .exec(
       http("AUTH API TESTING")
         .get("/basic-auth/user/passwd")

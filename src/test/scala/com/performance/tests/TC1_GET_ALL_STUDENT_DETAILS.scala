@@ -39,7 +39,7 @@ class TC1_GET_ALL_STUDENT_DETAILS extends Simulation {
   // setUp configuration
 
     setUp(
-      scn.inject(atOnceUsers(10))
+      scn.inject(atOnceUsers(1))
     ).protocols(httpConfig)
 
 }

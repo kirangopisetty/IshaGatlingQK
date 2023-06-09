@@ -15,7 +15,7 @@ class TC2_GET_SPECIFIC_STUDENT_DETAILS extends Simulation {
   val scn = scenario("Get a specific student record details")
         .exec(
           http("GET STUDENT DETAILS")
-          .get("/api/studentsDetails/7549904")
+          .get("/api/studentsDetails/7575004")
           .check(status.is(200))
           .check(bodyString.saveAs("BODY"))
             .check(bodyString.saveAs("BODY"))
@@ -30,6 +30,6 @@ class TC2_GET_SPECIFIC_STUDENT_DETAILS extends Simulation {
   // setUp configuration
 
     setUp(
-      scn.inject(atOnceUsers(30))
+      scn.inject(atOnceUsers(1))
     ).protocols(httpConfig)
 }

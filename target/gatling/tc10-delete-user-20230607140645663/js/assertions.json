@@ -1,0 +1,10 @@
+{
+  "simulation": "com.performance.tests.TC10_DELETE_USER",
+  "simulationId": "tc10-delete-user",
+  "start": 1686146805663,
+  "description": "PERFORMANCE_TEST_REPORT",
+  "scenarios": ["AUTHORIZED APIs TESTING-TO DELETE AN USER"],
+  "assertions": [
+
+  ]
+}

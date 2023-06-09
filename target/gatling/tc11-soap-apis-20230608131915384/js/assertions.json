@@ -1,0 +1,10 @@
+{
+  "simulation": "com.performance.tests.TC11_SOAP_APIs",
+  "simulationId": "tc11-soap-apis",
+  "start": 1686230355384,
+  "description": "PERFORMANCE_TEST_REPORT",
+  "scenarios": ["SOAP APIs"],
+  "assertions": [
+
+  ]
+}

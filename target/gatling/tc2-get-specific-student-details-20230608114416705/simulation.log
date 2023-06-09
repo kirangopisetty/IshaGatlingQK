@@ -1,0 +1,91 @@
+RUN	com.performance.tests.TC2_GET_SPECIFIC_STUDENT_DETAILS	tc2-get-specific-student-details	1686224656705	PERFORMANCE_TEST_REPORT	3.5.1
+USER	Get a specific student record details	START	1686224658394
+USER	Get a specific student record details	START	1686224658717
+USER	Get a specific student record details	START	1686224658394
+USER	Get a specific student record details	START	1686224658396
+USER	Get a specific student record details	START	1686224658395
+USER	Get a specific student record details	START	1686224658395
+USER	Get a specific student record details	START	1686224658722
+USER	Get a specific student record details	START	1686224658722
+USER	Get a specific student record details	START	1686224658722
+USER	Get a specific student record details	START	1686224658394
+USER	Get a specific student record details	START	1686224658728
+USER	Get a specific student record details	START	1686224658394
+USER	Get a specific student record details	START	1686224658398
+USER	Get a specific student record details	START	1686224658731
+USER	Get a specific student record details	START	1686224658394
+USER	Get a specific student record details	START	1686224658394
+USER	Get a specific student record details	START	1686224658733
+USER	Get a specific student record details	START	1686224658733
+USER	Get a specific student record details	START	1686224658734
+USER	Get a specific student record details	START	1686224658395
+USER	Get a specific student record details	START	1686224658394
+USER	Get a specific student record details	START	1686224658398
+USER	Get a specific student record details	START	1686224658397
+USER	Get a specific student record details	START	1686224658742
+USER	Get a specific student record details	START	1686224658742
+USER	Get a specific student record details	START	1686224658394
+USER	Get a specific student record details	START	1686224658743
+USER	Get a specific student record details	START	1686224658745
+USER	Get a specific student record details	START	1686224658394
+USER	Get a specific student record details	START	1686224658746
+REQUEST		GET STUDENT DETAILS	1686224658649	1686224661033	OK	 
+REQUEST		GET STUDENT DETAILS	1686224658734	1686224661034	OK	 
+REQUEST		GET STUDENT DETAILS	1686224658732	1686224661033	OK	 
+REQUEST		GET STUDENT DETAILS	1686224658742	1686224661033	OK	 
+REQUEST		GET STUDENT DETAILS	1686224658723	1686224661033	OK	 
+REQUEST		GET STUDENT DETAILS	1686224658722	1686224661033	OK	 
+REQUEST		GET STUDENT DETAILS	1686224658742	1686224661033	OK	 
+REQUEST		GET STUDENT DETAILS	1686224658717	1686224661033	OK	 
+REQUEST		GET STUDENT DETAILS	1686224658648	1686224661033	OK	 
+REQUEST		GET STUDENT DETAILS	1686224658745	1686224661034	OK	 
+REQUEST		GET STUDENT DETAILS	1686224658649	1686224661033	OK	 
+REQUEST		GET STUDENT DETAILS	1686224658644	1686224661034	OK	 
+REQUEST		GET STUDENT DETAILS	1686224658649	1686224661033	OK	 
+USER	Get a specific student record details	END	1686224661220
+USER	Get a specific student record details	END	1686224661220
+USER	Get a specific student record details	END	1686224661220
+USER	Get a specific student record details	END	1686224661221
+USER	Get a specific student record details	END	1686224661221
+USER	Get a specific student record details	END	1686224661221
+USER	Get a specific student record details	END	1686224661221
+USER	Get a specific student record details	END	1686224661221
+USER	Get a specific student record details	END	1686224661222
+USER	Get a specific student record details	END	1686224661222
+USER	Get a specific student record details	END	1686224661222
+USER	Get a specific student record details	END	1686224661222
+USER	Get a specific student record details	END	1686224661223
+REQUEST		GET STUDENT DETAILS	1686224658729	1686224661228	OK	 
+REQUEST		GET STUDENT DETAILS	1686224658734	1686224661228	OK	 
+REQUEST		GET STUDENT DETAILS	1686224658649	1686224661230	OK	 
+REQUEST		GET STUDENT DETAILS	1686224658649	1686224661232	OK	 
+REQUEST		GET STUDENT DETAILS	1686224658722	1686224661233	OK	 
+REQUEST		GET STUDENT DETAILS	1686224658644	1686224661235	OK	 
+REQUEST		GET STUDENT DETAILS	1686224658743	1686224661235	OK	 
+REQUEST		GET STUDENT DETAILS	1686224658648	1686224661235	OK	 
+REQUEST		GET STUDENT DETAILS	1686224658644	1686224661235	OK	 
+USER	Get a specific student record details	END	1686224661229
+REQUEST		GET STUDENT DETAILS	1686224658644	1686224661238	OK	 
+USER	Get a specific student record details	END	1686224661230
+REQUEST		GET STUDENT DETAILS	1686224658649	1686224661239	OK	 
+USER	Get a specific student record details	END	1686224661232
+USER	Get a specific student record details	END	1686224661234
+USER	Get a specific student record details	END	1686224661234
+USER	Get a specific student record details	END	1686224661236
+USER	Get a specific student record details	END	1686224661237
+USER	Get a specific student record details	END	1686224661244
+USER	Get a specific student record details	END	1686224661244
+USER	Get a specific student record details	END	1686224661245
+USER	Get a specific student record details	END	1686224661249
+REQUEST		GET STUDENT DETAILS	1686224658644	1686224666139	OK	 
+USER	Get a specific student record details	END	1686224666149
+REQUEST		GET STUDENT DETAILS	1686224658648	1686224666163	OK	 
+USER	Get a specific student record details	END	1686224666165
+REQUEST		GET STUDENT DETAILS	1686224658747	1686224667165	OK	 
+USER	Get a specific student record details	END	1686224667169
+REQUEST		GET STUDENT DETAILS	1686224658733	1686224668863	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+REQUEST		GET STUDENT DETAILS	1686224658644	1686224668866	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Get a specific student record details	END	1686224668881
+USER	Get a specific student record details	END	1686224668881
+REQUEST		GET STUDENT DETAILS	1686224658649	1686224668882	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Get a specific student record details	END	1686224668883

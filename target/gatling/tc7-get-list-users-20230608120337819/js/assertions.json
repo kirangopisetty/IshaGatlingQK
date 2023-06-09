@@ -1,0 +1,10 @@
+{
+  "simulation": "com.performance.tests.TC7_GET_LIST_USERS",
+  "simulationId": "tc7-get-list-users",
+  "start": 1686225817819,
+  "description": "PERFORMANCE_TEST_REPORT",
+  "scenarios": ["AUTHORIZED APIs TESTING-TO GET ALL USERS"],
+  "assertions": [
+
+  ]
+}

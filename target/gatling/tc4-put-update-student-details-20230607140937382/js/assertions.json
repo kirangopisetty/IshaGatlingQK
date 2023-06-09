@@ -1,0 +1,10 @@
+{
+  "simulation": "com.performance.tests.TC4_PUT_UPDATE_STUDENT_DETAILS",
+  "simulationId": "tc4-put-update-student-details",
+  "start": 1686146977382,
+  "description": "PERFORMANCE_TEST_REPORT",
+  "scenarios": ["UPDATE ACTIVITY ON STUDENT RECORDS"],
+  "assertions": [
+
+  ]
+}

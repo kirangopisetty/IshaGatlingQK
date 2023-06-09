@@ -1,0 +1,4 @@
+RUN	com.performance.tests.TC2_GET_SPECIFIC_STUDENT_DETAILS	tc2-get-specific-student-details	1686225747442	PERFORMANCE_TEST_REPORT	3.5.1
+USER	Get a specific student record details	START	1686225749603
+REQUEST		GET STUDENT DETAILS	1686225749671	1686225749859	OK	 
+USER	Get a specific student record details	END	1686225749893

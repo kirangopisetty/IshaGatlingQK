@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>org.example</groupId>
+  <groupId>com.performance.tests</groupId>
   <artifactId>IshaGatlingQK</artifactId>
   <version>1.0-SNAPSHOT</version>
 
@@ -31,6 +31,14 @@
       <artifactId>gatling-recorder</artifactId>
       <version>${gatling.version}</version>
     </dependency>
+
+    <!-- https://mvnrepository.com/artifact/io.gatling/gatling-maven-plugin -->
+    <dependency>
+      <groupId>io.gatling</groupId>
+      <artifactId>gatling-maven-plugin</artifactId>
+      <version>${gatling-maven-plugin.version}</version>
+    </dependency>
+
   </dependencies>
 
   <build>
@@ -40,7 +48,20 @@
         <groupId>io.gatling</groupId>
         <artifactId>gatling-maven-plugin</artifactId>
         <version>${gatling-maven-plugin.version}</version>
+
+        <configuration>
+          <!--   ...  -->
+          <runMultipleSimulations>true</runMultipleSimulations>
+          <includes>
+            <include>com.performance.tests.*</include>
+          </includes>
+          <excludes>
+            <exclude>my.package.IgnoredSimulation</exclude>
+          </excludes>
+        </configuration>
+
       </plugin>
+
     </plugins>
   </build>
 </project>

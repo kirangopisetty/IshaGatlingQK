@@ -1,0 +1,10 @@
+{
+  "simulation": "com.performance.tests.TC9_PUT_UPDATE_USER",
+  "simulationId": "tc9-put-update-user",
+  "start": 1686147037446,
+  "description": "PERFORMANCE_TEST_REPORT",
+  "scenarios": ["AUTHORIZED APIs TESTING-TO UPDATE AN USER"],
+  "assertions": [
+
+  ]
+}

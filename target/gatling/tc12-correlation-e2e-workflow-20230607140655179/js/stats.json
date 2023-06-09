@@ -1,0 +1,317 @@
+{
+  "type": "GROUP",
+"name": "Global Information",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "Global Information",
+    "numberOfRequests": {
+        "total": 3,
+        "ok": 2,
+        "ko": 1
+    },
+    "minResponseTime": {
+        "total": 42,
+        "ok": 43,
+        "ko": 42
+    },
+    "maxResponseTime": {
+        "total": 159,
+        "ok": 159,
+        "ko": 42
+    },
+    "meanResponseTime": {
+        "total": 81,
+        "ok": 101,
+        "ko": 42
+    },
+    "standardDeviation": {
+        "total": 55,
+        "ok": 58,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 113,
+        "ok": 136,
+        "ko": 42
+    },
+    "percentiles2": {
+        "total": 124,
+        "ok": 142,
+        "ko": 42
+    },
+    "percentiles3": {
+        "total": 136,
+        "ok": 147,
+        "ko": 42
+    },
+    "percentiles4": {
+        "total": 147,
+        "ok": 153,
+        "ko": 42
+    },
+    "group1": {
+    "name": "t < 400 ms",
+    "count": 2,
+    "percentage": 67
+},
+    "group2": {
+    "name": "400 ms < t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 1,
+    "percentage": 33
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.23076923076923078,
+        "ok": 0.15384615384615385,
+        "ko": 0.07692307692307693
+    }
+},
+"contents": {
+"req_extract-id-from-6502b": {
+        "type": "REQUEST",
+        "name": "EXTRACT ID FROM 1st API",
+"path": "EXTRACT ID FROM 1st API",
+"pathFormatted": "req_extract-id-from-6502b",
+"stats": {
+    "name": "EXTRACT ID FROM 1st API",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 159,
+        "ok": 159,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 159,
+        "ok": 159,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 159,
+        "ok": 159,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 159,
+        "ok": 159,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 159,
+        "ok": 159,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 159,
+        "ok": 159,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 159,
+        "ok": 159,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 400 ms",
+    "count": 1,
+    "percentage": 100
+},
+    "group2": {
+    "name": "400 ms < t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.07692307692307693,
+        "ok": 0.07692307692307693,
+        "ko": 0
+    }
+}
+    },"req_refer-the-extra-622cb": {
+        "type": "REQUEST",
+        "name": "REFER THE EXTRACTED ID FROM 1st API TO PRINT THE DETAILS",
+"path": "REFER THE EXTRACTED ID FROM 1st API TO PRINT THE DETAILS",
+"pathFormatted": "req_refer-the-extra-622cb",
+"stats": {
+    "name": "REFER THE EXTRACTED ID FROM 1st API TO PRINT THE DETAILS",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "minResponseTime": {
+        "total": 42,
+        "ok": 0,
+        "ko": 42
+    },
+    "maxResponseTime": {
+        "total": 42,
+        "ok": 0,
+        "ko": 42
+    },
+    "meanResponseTime": {
+        "total": 42,
+        "ok": 0,
+        "ko": 42
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 42,
+        "ok": 0,
+        "ko": 42
+    },
+    "percentiles2": {
+        "total": 42,
+        "ok": 0,
+        "ko": 42
+    },
+    "percentiles3": {
+        "total": 42,
+        "ok": 0,
+        "ko": 42
+    },
+    "percentiles4": {
+        "total": 42,
+        "ok": 0,
+        "ko": 42
+    },
+    "group1": {
+    "name": "t < 400 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "400 ms < t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 1,
+    "percentage": 100
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.07692307692307693,
+        "ok": 0,
+        "ko": 0.07692307692307693
+    }
+}
+    },"req_refer-the-extra-025c3": {
+        "type": "REQUEST",
+        "name": "REFER THE EXTRACTED ID FROM 1st API TO DELETE THE RECORD",
+"path": "REFER THE EXTRACTED ID FROM 1st API TO DELETE THE RECORD",
+"pathFormatted": "req_refer-the-extra-025c3",
+"stats": {
+    "name": "REFER THE EXTRACTED ID FROM 1st API TO DELETE THE RECORD",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 43,
+        "ok": 43,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 43,
+        "ok": 43,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 43,
+        "ok": 43,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 43,
+        "ok": 43,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 43,
+        "ok": 43,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 43,
+        "ok": 43,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 43,
+        "ok": 43,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 400 ms",
+    "count": 1,
+    "percentage": 100
+},
+    "group2": {
+    "name": "400 ms < t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.07692307692307693,
+        "ok": 0.07692307692307693,
+        "ko": 0
+    }
+}
+    }
+}
+
+}

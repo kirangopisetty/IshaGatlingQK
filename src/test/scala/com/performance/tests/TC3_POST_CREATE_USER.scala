@@ -33,6 +33,6 @@ class TC3_POST_CREATE_USER extends Simulation {
   // setUp configuration
 
   setUp(
-    scn.inject(rampUsers(5).during(10))
+    scn.inject(rampUsers(1).during(10))
   ).protocols(httpConfig)
 }

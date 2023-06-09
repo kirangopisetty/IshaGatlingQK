@@ -1,0 +1,10 @@
+{
+  "simulation": "com.performance.tests.TC19_TRANSACTIONS_MULTIPLE_SCENARIOS",
+  "simulationId": "tc19-transactions-multiple-scenarios",
+  "start": 1686225725009,
+  "description": "PERFORMANCE_TEST_REPORT",
+  "scenarios": ["SCENARIO2-POST-APIs", "SCENARIO1-GET-APIs", "SCENARIO3-PUT-APIs", "SCENARIO4-DELETE-APIs"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "com.performance.tests.TC12_CORRELATION_E2E_WORKFLOW",
+  "simulationId": "tc12-correlation-e2e-workflow",
+  "start": 1686146815179,
+  "description": "PERFORMANCE_TEST_REPORT",
+  "scenarios": ["CORRELATION-API-CHAINING"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "com.performance.tests.TC15_BASIC_AUTH",
+  "simulationId": "tc15-basic-auth",
+  "start": 1686228628637,
+  "description": "PERFORMANCE_TEST_REPORT",
+  "scenarios": ["BASIC AUTHORIZATION API"],
+  "assertions": [
+
+  ]
+}

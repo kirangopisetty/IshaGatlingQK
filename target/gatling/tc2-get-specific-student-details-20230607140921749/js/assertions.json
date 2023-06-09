@@ -1,0 +1,10 @@
+{
+  "simulation": "com.performance.tests.TC2_GET_SPECIFIC_STUDENT_DETAILS",
+  "simulationId": "tc2-get-specific-student-details",
+  "start": 1686146961749,
+  "description": "PERFORMANCE_TEST_REPORT",
+  "scenarios": ["Get a specific student record details"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "com.performance.tests.TC5_DELETE_STUDENT",
+  "simulationId": "tc5-delete-student",
+  "start": 1686146990827,
+  "description": "PERFORMANCE_TEST_REPORT",
+  "scenarios": ["Deleting the student record"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "com.performance.tests.TC8_POST_CREATE_USER",
+  "simulationId": "tc8-post-create-user",
+  "start": 1686225824671,
+  "description": "PERFORMANCE_TEST_REPORT",
+  "scenarios": ["AUTHORIZED APIs TESTING-TO CREATE A USER"],
+  "assertions": [
+
+  ]
+}
